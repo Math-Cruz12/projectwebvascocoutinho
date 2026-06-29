@@ -3,7 +3,7 @@
 Sistema web desenvolvido para gerenciamento de uma cantina escolar, permitindo cadastro de usuários, autenticação, carrinho de compras, realização de pedidos e gerenciamento administrativo.
 
 ## 👨‍💻 Autor
-<img width="1354" height="718" alt="image" src="https://github.com/user-attachments/assets/2eba7b74-e375-4193-9a30-56961a940a95" />
+<img width="1310" height="731" alt="image" src="https://github.com/user-attachments/assets/6149ba3b-ffb9-4d7c-9c89-a8754583879f" />
 
 
 **Matheus Cruz**
@@ -36,6 +36,10 @@ Projeto desenvolvido utilizando:
 - Gerenciamento de usuários
 - Controle de pedidos
 - Visualização das vendas
+  <img width="1405" height="722" alt="image" src="https://github.com/user-attachments/assets/d0cbfefd-7b8e-4cb6-b9a7-caf5b5d68313" />
+
+
+- 
 
 ---
 
